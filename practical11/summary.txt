@@ -1,0 +1,12 @@
+Mouse and human: 
+percentage_identity=89.64%         alignment score=1091
+
+Mouse and random sequence:
+percentage_identity=5.86%          alignment score=-250
+
+Human and random sequence: 
+percentage_indentity=5.41%            alignment score=-250
+
+interpretation：
+We can conclude that amino acids between mouse and human are 89.64% identical, which means these two species have many similarities in protein sequences and their sequences are clustered. 
+Morever, protein can be arranged in various ways, which makes the random sequence quite different from mouse or human sequence.
